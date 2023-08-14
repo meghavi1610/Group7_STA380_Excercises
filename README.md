@@ -6,7 +6,7 @@ This repository pertains to the Introduction to Machine Learning Course that we 
 # Group Members
 1. Meghavi Singhaniya (ms89872)
 2. Avi Walyat (aw39578)
-3. Simran Kaur (  1q
+3. Simran Kaur (sk57859)
 4. Nikhil Nair (nn8446)
 
 # Excercise Answers
