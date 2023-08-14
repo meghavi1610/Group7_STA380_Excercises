@@ -10,7 +10,7 @@ This repository pertains to the Introduction to Machine Learning Course that we 
 4. Nikhil Nair
 
 # Excercise Answers
-1.[Probability practice:](Question 1 - Probability Practice.ipynb)
+1.[Probability practice:Question 1 - Probability Practice.ipynb](https://github.com/meghavi1610/Group7_STA380_Excercises/blob/main/Question%201%20-%20Probability%20Practice.ipynb)
 
 2.Wrangling the Billboard Top 100: Billboard_code.ipynb
 
