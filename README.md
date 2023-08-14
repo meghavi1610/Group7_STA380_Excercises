@@ -5,9 +5,9 @@ This repository pertains to the Introduction to Machine Learning Course that we 
 
 # Group Members
 1. Meghavi Singhaniya (ms89872)
-2. Avi Walyat
-3. Simran Kaur
-4. Nikhil Nair
+2. Avi Walyat (aw39578)
+3. Simran Kaur (  1q
+4. Nikhil Nair (nn8446)
 
 # Excercise Answers
 1.[Probability practice: Question 1 - Probability Practice.ipynb](https://github.com/meghavi1610/Group7_STA380_Excercises/blob/main/Question%201%20-%20Probability%20Practice.ipynb)
