@@ -22,7 +22,7 @@ This repository pertains to the Introduction to Machine Learning Course that we 
 
 [Market segmentation: Question 5 - Marketing Segmentation.ipynb](https://github.com/meghavi1610/Group7_STA380_Excercises/blob/main/Question%205%20-%20Market%20Segmentation.ipynb)
 
-[The Reuters corpus: Question 6 - Reuters_Corpus.ipynb]
+[The Reuters corpus: Question 6 - Reuters_Corpus.ipynb](https://github.com/meghavi1610/Group7_STA380_Excercises/blob/main/Question%206%20-%20The%20Reuters%20Corpus.ipynb)
 
 [Association rule mining: Association Rule mining.ipynb](https://github.com/meghavi1610/Group7_STA380_Excercises/blob/main/Question%207%20-%20Association%20Rule%20Mining.ipynb)
 
