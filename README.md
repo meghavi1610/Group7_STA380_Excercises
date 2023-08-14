@@ -10,3 +10,5 @@ This repository pertains to the Introduction to Machine Learning Course that we 
 4. Nikhil Nair
 
 # Excercise Answers
+1. https://github.com/meghavi1610/Group7_STA380_Excercises/blob/main/Question%201%20-%20Probability%20Practice.ipynb
+2. 
